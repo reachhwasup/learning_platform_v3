@@ -42,6 +42,8 @@ require_once 'functions.php';
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">
                             <a href="dashboard.php" class="text-white hover:bg-primary-dark rounded-md px-3 py-2 text-sm font-medium">Dashboard</a>
+                            <!-- NEW LINK ADDED HERE -->
+                            <a href="posters.php" class="text-gray-300 hover:bg-primary-dark hover:text-white rounded-md px-3 py-2 text-sm font-medium">Posters</a>
                             <a href="my_certificates.php" class="text-gray-300 hover:bg-primary-dark hover:text-white rounded-md px-3 py-2 text-sm font-medium">My Certificates</a>
                             <a href="materials.php" class="text-gray-300 hover:bg-primary-dark hover:text-white rounded-md px-3 py-2 text-sm font-medium">Materials</a>
                         </div>
